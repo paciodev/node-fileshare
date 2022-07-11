@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "git": "git add . && git commit -m \"Adding needed dependencies (#2)\" && git push -u origin main"
+    "git": "git add . && git commit -m \"Finishing project (#3)\" && git push -u origin main"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "mongoose": "^6.4.4",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "pug": "^3.0.2"
   }
 }
