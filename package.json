@@ -4,8 +4,9 @@
   "description": "Small app that can share and store files",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "dev": "nodemon server.js",
-    "git": "git add . && git commit -m \"Finishing project (#3)\" && git push -u origin main"
+    "git": "git add . && git commit -m \"Adding fixes for deploy (#4)\" && git push -u origin main"
   },
   "repository": {
     "type": "git",
